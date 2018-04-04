@@ -1,6 +1,7 @@
 line abc
 
 world
+hello
 a=a+1
 group
 end
